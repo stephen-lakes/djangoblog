@@ -1,5 +1,5 @@
 *.log
 *.pyc
-/__pycahce__
+__pycahce__
 db.sqlite3
 media

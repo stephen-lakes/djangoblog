@@ -1,5 +1,7 @@
 *.log
 *.pyc
+blog_project/__pycahce__/settings.cpython-39.pyc
+blog_project/__pycahce__/urls.cpython-39.pyc
 __pycahce__
 db.sqlite3
 media
